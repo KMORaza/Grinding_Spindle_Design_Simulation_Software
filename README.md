@@ -1,4 +1,4 @@
-### Desktop-Software zur Simulation des optimalen Designs und der Leistung von Schleifspindeln unter verschiedenen Betriebsbedingungen und Konfigurationen (Desktop software to simulate optimal design and performance of grinding spindle under various operating conditions and configurations)
+### Software zur Simulation des Schleifspindeldesigns (Grinding Spindle Design Simulation Software)
 
 * Simulates spindle performance across scenarios (High-Speed, High-Torque, Balanced) and time-based simulations.
 * Generates dynamic load profiles with sinusoidal variation and random spikes to simulate real-world conditions.
